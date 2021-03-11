@@ -10,7 +10,7 @@ const Body = () =>{
         </Button></div>
         <div className="comdata">
         <div className="header1">
-           <h4>ALLCANDIDATES</h4>
+           <h4>ALLCANDIDATESss</h4>
            <div className='input'>Search
              <TextField  type="date" style={{ margin:'15px'}} id="outlined-basic"  variant="outlined" />
              <TextField id="outlined-basic" label="By Name or ID" variant="outlined" />
