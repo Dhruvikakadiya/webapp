@@ -3,6 +3,7 @@ import Field from './Field'
 import Department from './Department'
 import Manager from './Manager'
 import Jobtitle from './Jobtitle'
+import  '../index.css';
 
 const Comproform=()=> {
     return (

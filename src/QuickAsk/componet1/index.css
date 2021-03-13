@@ -56,9 +56,9 @@ background-blend-mode:darken;
       align-items: center;
       margin-top: 10px;
     }
-    .logo{
+    /* .logo{
       background-image: url("onlinelogomaker-030421-1411-2933.png");
-    }
+    } */
     .header2 {
       height:57px;
       width: 1050px;
