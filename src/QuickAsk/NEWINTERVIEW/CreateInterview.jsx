@@ -19,6 +19,8 @@ const useStyles = makeStyles((theme) => ({
   button: {
     marginTop: theme.spacing(1),
     marginRight: theme.spacing(1),
+    float : 'right'
+    
   },
   actionsContainer: {
     marginBottom: theme.spacing(2),
@@ -80,14 +82,14 @@ export default function VerticalLinearStepper() {
               <div className={classes.actionsContainer}>
              
                 <div>
-                  <Button
+                  <Button style={{backgroundColor:"gray" }}
                     disabled={activeStep === 0}
                     onClick={handleBack}
                     className={classes.button}
                   >
                     Back
                   </Button>
-                  <Button
+                  <Button  style={{marginRight : '50px'}}
                     variant="contained"
                     color="primary"
                     onClick={handleNext}
