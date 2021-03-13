@@ -10,7 +10,7 @@ import Comprofile from './QuickAsk/componet1/companyprofile/Comprofile';
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
-    {/* <Department/> */}
+    <Department/>
     <Comprofile/>
   </React.StrictMode>,
   document.getElementById('root')
