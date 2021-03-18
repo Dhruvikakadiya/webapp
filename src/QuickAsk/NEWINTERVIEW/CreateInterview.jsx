@@ -89,7 +89,7 @@ export default function VerticalLinearStepper() {
                   >
                     Back
                   </Button>
-                  <Button  style={{marginRight : '50px'}}
+                  <Button  style={{marginRight : '51px'}}
                     variant="contained"
                     color="primary"
                     onClick={handleNext}
