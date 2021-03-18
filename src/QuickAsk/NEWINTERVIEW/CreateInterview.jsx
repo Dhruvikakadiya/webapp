@@ -82,7 +82,7 @@ export default function VerticalLinearStepper() {
               <div className={classes.actionsContainer}>
              
                 <div>
-                  <Button style={{backgroundColor:"gray" }}
+                  <Button style={{backgroundColor:"red" }}
                     disabled={activeStep === 0}
                     onClick={handleBack}
                     className={classes.button}
