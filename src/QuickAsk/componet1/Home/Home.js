@@ -34,8 +34,8 @@ The Wrong Candidates, We’ll On-Screen For You So
 You Can Spend Your Time On Other Endeavors.</h4>
      </div>
         </div>
+            
 
-        <p>we want you for our project</p>
         
         </>
     )

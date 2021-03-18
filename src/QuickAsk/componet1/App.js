@@ -5,14 +5,14 @@ import Demo from './Demo'
 import Team from './Team/Team'
 import { BrowserRouter} from 'react-router-dom'
 import Text from './Text'
-import Home from './Home/Home';
+import Home from '../componet1/Home/Home';
 
 function App() {
   return (
     <>
   
-    <Comprofile/>
-   {/* <Home/> */}
+    {/* <Comprofile/> */}
+   <Home/>
     {/* <BrowserRouter>
     <Team/>
     </BrowserRouter> */}
